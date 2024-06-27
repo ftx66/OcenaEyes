@@ -60,8 +60,8 @@ OceanEyes 是一款使用现代 SwiftUI 和多模态大模型技术开发的应�
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ftx66"><img src="https://avatars.githubusercontent.com/ftx66?v=4" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a><br /><a href="https://github.com/ftx66/your-repo/commits?author=ftx66" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/contributor1"><img src="https://avatars.githubusercontent.com/contributor1?v=4" width="100px;" alt=""/><br /><sub><b>Contributor1</b></sub></a><br /><a href="https://github.com/yourusername/your-repo/commits?author=contributor1" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ftx66"><img src="https://avatars.githubusercontent.com/ftx66?v=4" width="100px;" alt=""/><br /><sub><b>方正豪</b></sub></a><br /><a href="https://github.com/ftx66/your-repo/commits?author=ftx66" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/contributor1"><img src="https://avatars.githubusercontent.com/contributor1?v=4" width="100px;" alt=""/><br /><sub><b>庄浩林</b></sub></a><br /><a href="https://github.com/yourusername/your-repo/commits?author=contributor1" title="Code">💻</a></td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
